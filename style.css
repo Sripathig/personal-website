@@ -1,0 +1,99 @@
+body{
+    position:relative;
+    margin:0px;
+}
+
+.top-container{
+    text-align: center;
+    padding:100px;
+    background-color:#e0ebe8;
+    font-style: italic;
+    color:#4ab19a;
+}
+.intro{
+    width:35%;
+    margin: auto;
+}
+h1{
+    margin:0 auto 0 auto;
+    color: #11999E;
+    font-family: 'Merriweather', serif;
+}
+.top-cloud{
+    position:absolute;
+    right:200px;
+    top:50px;
+}
+.adult-pic{
+    width:90px;
+    position: absolute;
+    left:60px;
+    top:50px;
+}
+.bottom-cloud{
+    position:absolute;
+    left:200px;
+    bottom:1350px;
+}
+.top-head1{
+    font-family: 'Sacramento', cursive;
+    font-size: 70px;
+    color:#4ab19a;
+}
+h2{
+    color: #11999E;
+    font-family: 'Kaushan Script', cursive;
+}
+h3{
+    color:#3a937e;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+}
+.proile{
+    width:150px;
+    position: relative;
+    border:60px ;
+}
+.middle-container{
+    margin:70px auto 100px auto;
+}
+.bio{
+    text-align:center;
+}
+hr {
+    border-style: none;
+    border-top: dotted;
+    border-color: grey;
+    border-width:5px;
+    width:5%;
+    margin:40px auto 0px auto;
+}
+.My-skill{
+    text-align:center;
+    margin:50px;
+}
+.skill{
+    text-align: center;
+    width:50%;
+    margin:70px auto 120px auto;
+    text-align: left;
+}
+.skill-pic{
+    width:150px;
+    float: left;
+    margin-right:30px;
+}
+.business-pic{
+    width:120px;
+    float:right;
+    margin-left:30px;
+}
+.bottom-container{
+    text-align: center;
+    background-color: #c5ded7;
+    padding:40px 0 20px;
+}
+.footer{
+    display: inline;
+}
